@@ -1,10 +1,11 @@
-## Hi there 👋
+## About me😎
 
+### Hi, I'm Martin, I am an engineering student located in Czech republic, I'm into sports, technology, hanging out with friends and all of those combined.
 
 - 👨‍🎓 Bachelors Degree - Biomedical Technology and Bioinformatics
 
 
-- 🏫 Student at Brno University of Technology (Czech republic) - FEEC - Bioengineering
+- 🏫 Student at Brno University of Technology - FEEC - Bioengineering
 
 
 - 🔭 I’m currently working on Data Analysis, AI/ML Implementation in Healthcare, Signal Processing, Image Processing, Bioinformatics, Biomedical Engineering stuff in general
