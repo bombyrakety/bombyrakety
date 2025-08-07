@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Python, SQL, JavaScript, Node.js, React, MATLAB, R  
 
 
-- 👯 I’m looking to collaborate on AI/ML Implementation in Healthcare - My Bachelor's Thesis was focused on Stress Detection Algorithms from Biosignal Data
+- 👯 I’m looking to collaborate on AI/ML Implementation in Healthcare - My Bachelor's Thesis was focused on Stress Detection Algorithms uaing Biosignals
 
 
 - 🤔 I’m looking for help with Data Analysis in general
