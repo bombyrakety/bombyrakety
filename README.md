@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-<!--**bombyrakety/bombyrakety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
-
 - 👨‍🎓 Bachelors Degree - Biomedical Technology and Bioinformatics
 
 
@@ -20,9 +18,3 @@
 
 - 🤔 I’m looking for help with Data Analysis in general
 
-
-<-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
