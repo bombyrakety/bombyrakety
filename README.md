@@ -1,6 +1,6 @@
-## About me😎
+## About me 😎
 
-### Hi, I'm Martin, I am an engineering student located in Czech republic, I'm into sports, technology, hanging out with friends and all of those combined.
+#### Hi, I'm Martin, I am an engineering student located in Czech republic, I'm into sports, technology, hanging out with friends etc. I'm also into software development, so that's why im here 😜
 
 - 👨‍🎓 Bachelors Degree - Biomedical Technology and Bioinformatics
 
